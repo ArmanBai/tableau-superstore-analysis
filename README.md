@@ -26,4 +26,4 @@
 ## 👤 Автор:
 **Arman Bai**  
 Tableau Developer | Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/arman-baigudtinov-23a08a93)
+
